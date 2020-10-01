@@ -30,7 +30,7 @@
 * **Tensorflow (`pip install tensorflow>=1.15`)**
 * **Keras (`pip install keras`)**
 * **pdpipe (`pip install pdpipe`)**
-* **Installing Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.html
+* **Installing Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.html**
 
 ---
 
